@@ -1,0 +1,671 @@
+2024-10-02 19:11:47,301 INFO: 127.0.0.1 - - [02/Oct/2024 19:11:47] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:12:08,240 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:12:08,240 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:12:08,241 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:12:09,114 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:12:09,116 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:12:13,582 INFO: 127.0.0.1 - - [02/Oct/2024 19:12:13] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:12:16,002 INFO: 127.0.0.1 - - [02/Oct/2024 19:12:16] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:36,332 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\forms.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:36,467 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:37,413 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:37,416 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:45,626 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:45,626 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:45,626 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:46,523 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:46,526 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:24:49,495 INFO: 127.0.0.1 - - [02/Oct/2024 19:24:49] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:28:14,241 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:28:14,241 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:28:14,242 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:28:15,139 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:28:15,141 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:28:17,297 INFO: 127.0.0.1 - - [02/Oct/2024 19:28:17] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:28:19,517 INFO: 127.0.0.1 - - [02/Oct/2024 19:28:19] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:28:20,322 INFO: 127.0.0.1 - - [02/Oct/2024 19:28:20] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:29:21,267 INFO: 127.0.0.1 - - [02/Oct/2024 19:29:21] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:35:01,386 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\auth\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:35:01,525 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:35:02,452 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:35:02,455 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:35:49,921 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\main\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:35:50,068 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:35:50,989 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:35:50,991 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:44,286 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:44,286 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:44,287 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:45,174 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:45,177 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:49,206 INFO: 127.0.0.1 - - [02/Oct/2024 19:36:49] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:51,616 INFO: 127.0.0.1 - - [02/Oct/2024 19:36:51] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:52,445 INFO: 127.0.0.1 - - [02/Oct/2024 19:36:52] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:36:53,928 INFO: 127.0.0.1 - - [02/Oct/2024 19:36:53] "[33mGET / HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:52:33,671 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\main\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:52:33,804 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:52:34,757 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:52:34,760 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:29,435 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\auth\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:29,579 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:30,513 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:30,516 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:45,380 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:45,380 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:45,381 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:46,270 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:46,272 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:49,970 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:49] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:49,987 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:49] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:50,044 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:50] "GET /static/style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:50,052 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:50] "GET /static/script.js HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:57,222 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:57] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:57,237 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:57] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:57,238 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:57] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:58,660 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:58] "GET /history HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:58,680 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:53:58,681 INFO: 127.0.0.1 - - [02/Oct/2024 19:53:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:00,389 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:00] "GET /faq HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:00,409 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:00,409 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:00] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:01,719 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:01] "GET /settings HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:01,742 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:01,742 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:01] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:03,907 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:03] "GET /consultant_plus HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:03,929 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:03,929 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:03] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:15,545 INFO: Пользователь вышел из системы. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:34]
+2024-10-02 19:54:15,545 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:15] "[32mGET /logout HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:15,554 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:15] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:15,578 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:15,580 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:18,599 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:18] "GET /register HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:18,617 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:18] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:54:18,617 INFO: 127.0.0.1 - - [02/Oct/2024 19:54:18] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:32,663 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\main\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:32,812 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:33,771 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:33,774 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:46,621 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:46,621 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:46,622 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:47,517 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:47,520 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:49,992 INFO: 127.0.0.1 - - [02/Oct/2024 19:59:49] "GET /register HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:50,044 INFO: 127.0.0.1 - - [02/Oct/2024 19:59:50] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:50,053 INFO: 127.0.0.1 - - [02/Oct/2024 19:59:50] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:52,015 INFO: 127.0.0.1 - - [02/Oct/2024 19:59:52] "[32mGET /dashboard HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:52,024 INFO: 127.0.0.1 - - [02/Oct/2024 19:59:52] "GET /login?next=/dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:52,051 INFO: 127.0.0.1 - - [02/Oct/2024 19:59:52] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 19:59:52,051 INFO: 127.0.0.1 - - [02/Oct/2024 19:59:52] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:06,432 INFO: Пользователь admin успешно вошел в систему. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:21]
+2024-10-02 20:00:06,432 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:06] "[32mPOST /login HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:06,446 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:06] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:06,464 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:06] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:06,464 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:06] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:12,607 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:12] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:12,619 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:12,619 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:12,765 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:12] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:12,778 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:12] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:12,780 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:12] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:21,292 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:21] "GET /history HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:21,307 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:21] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:21,308 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:21] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:23,247 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:23] "GET /faq HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:23,270 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:23,271 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:24,885 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:24] "GET /settings HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:24,901 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:24,902 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:26,808 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:26] "GET /consultant_plus HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:26,833 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:00:26,833 INFO: 127.0.0.1 - - [02/Oct/2024 20:00:26] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:12:12,886 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\consultations\\__init__.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:12:13,036 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:12:13,984 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:12:13,987 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:15:52,549 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\consultations\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:15:52,679 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:15:53,629 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:15:53,632 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:16:43,162 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\forms.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:16:43,316 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:16:44,264 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:16:44,267 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:03,334 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:03,334 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:03,335 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:04,230 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:04,233 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:08,415 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:08] "[35m[1mGET /consultant_plus HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:08,473 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:08] "GET /consultant_plus?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:08,473 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:08] "GET /consultant_plus?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:08,507 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:08] "GET /consultant_plus?__debugger__=yes&cmd=resource&f=console.png&s=RO3MGTbahGpSoo3TlApy HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:08,880 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:08] "GET /consultant_plus?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:18,548 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:18] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:18,573 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:18] "GET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:18,573 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:18] "GET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:18,585 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:18] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=RO3MGTbahGpSoo3TlApy HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:18,755 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:18] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:23,273 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:23] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:23,290 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:23] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:23,304 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:23] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:23,304 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:23] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:23,316 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:23] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=RO3MGTbahGpSoo3TlApy HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:30,881 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:30] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:30,896 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:30,897 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:30,912 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:30] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=RO3MGTbahGpSoo3TlApy HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:34,907 ERROR: Ошибка при загрузке истории [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\main\routes.py:50]
+Traceback (most recent call last):
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\main\routes.py", line 48, in history
+    return render_template('history.html', histories=user_histories)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\jinja2\environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\jinja2\environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\templates\history.html", line 2, in top-level template code
+    {% extends 'base.html' %}
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\templates\base.html", line 38, in top-level template code
+    <a class="nav-link" href="{{ url_for('consultations.consultations') }}">Консультации</a>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\app.py", line 1084, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\app.py", line 1073, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'consultations.consultations'. Did you mean 'main.consultant_plus' instead?
+2024-10-02 20:24:34,909 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:34] "[35m[1mGET /history HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:37,982 ERROR: Ошибка при загрузке FAQ [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\main\routes.py:61]
+Traceback (most recent call last):
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\main\routes.py", line 59, in faq_route
+    return render_template('faq.html', faq_items=faq_items), 200
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\jinja2\environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\jinja2\environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\templates\faq.html", line 2, in top-level template code
+    {% extends 'base.html' %}
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\templates\base.html", line 38, in top-level template code
+    <a class="nav-link" href="{{ url_for('consultations.consultations') }}">Консультации</a>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\app.py", line 1084, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\app.py", line 1073, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'consultations.consultations'. Did you mean 'main.consultant_plus' instead?
+2024-10-02 20:24:37,984 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:37] "[35m[1mGET /faq HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:40,265 ERROR: Ошибка при загрузке истории [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\main\routes.py:50]
+Traceback (most recent call last):
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\main\routes.py", line 48, in history
+    return render_template('history.html', histories=user_histories)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\jinja2\environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\jinja2\environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\templates\history.html", line 2, in top-level template code
+    {% extends 'base.html' %}
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\templates\base.html", line 38, in top-level template code
+    <a class="nav-link" href="{{ url_for('consultations.consultations') }}">Консультации</a>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\app.py", line 1084, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\app.py", line 1073, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'consultations.consultations'. Did you mean 'main.consultant_plus' instead?
+2024-10-02 20:24:40,267 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:40] "[35m[1mGET /history HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:24:43,699 ERROR: Ошибка при загрузке истории [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\main\routes.py:50]
+Traceback (most recent call last):
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\main\routes.py", line 48, in history
+    return render_template('history.html', histories=user_histories)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\templating.py", line 150, in render_template
+    return _render(app, template, context)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\templating.py", line 131, in _render
+    rv = template.render(context)
+         ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\jinja2\environment.py", line 1304, in render
+    self.environment.handle_exception()
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\jinja2\environment.py", line 939, in handle_exception
+    raise rewrite_traceback_stack(source=source)
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\templates\history.html", line 2, in top-level template code
+    {% extends 'base.html' %}
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\templates\base.html", line 38, in top-level template code
+    <a class="nav-link" href="{{ url_for('consultations.consultations') }}">Консультации</a>
+    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\app.py", line 1084, in url_for
+    return self.handle_url_build_error(error, endpoint, values)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\flask\app.py", line 1073, in url_for
+    rv = url_adapter.build(  # type: ignore[union-attr]
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\routing\map.py", line 924, in build
+    raise BuildError(endpoint, values, method, self)
+werkzeug.routing.exceptions.BuildError: Could not build url for endpoint 'consultations.consultations'. Did you mean 'main.consultant_plus' instead?
+2024-10-02 20:24:43,701 INFO: 127.0.0.1 - - [02/Oct/2024 20:24:43] "[35m[1mGET /history HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:03,230 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\main\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:03,366 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:04,307 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:04,311 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:44,676 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:44,676 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:44,677 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:45,577 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:45,580 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:48,300 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:48] "[35m[1mGET /login?next=/dashboard HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:48,357 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:48] "GET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:48,360 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:48] "GET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:48,367 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:48] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=1Evc0D0JeAAh0pf282eA HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:48,512 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:48] "GET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:55,904 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:55] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:55,924 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:55] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:55,945 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:55] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:55,946 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:55] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:55,953 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:55] "GET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=1Evc0D0JeAAh0pf282eA HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:29:56,086 INFO: 127.0.0.1 - - [02/Oct/2024 20:29:56] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:02,348 INFO: 127.0.0.1 - - [02/Oct/2024 20:30:02] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:02,369 INFO: 127.0.0.1 - - [02/Oct/2024 20:30:02] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:03,713 INFO: 127.0.0.1 - - [02/Oct/2024 20:30:03] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:03,728 INFO: 127.0.0.1 - - [02/Oct/2024 20:30:03] "[35m[1mGET /dashboard HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:03,742 INFO: 127.0.0.1 - - [02/Oct/2024 20:30:03] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:03,743 INFO: 127.0.0.1 - - [02/Oct/2024 20:30:03] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:03,754 INFO: 127.0.0.1 - - [02/Oct/2024 20:30:03] "[36mGET /dashboard?__debugger__=yes&cmd=resource&f=console.png&s=1Evc0D0JeAAh0pf282eA HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:16,533 INFO: 127.0.0.1 - - [02/Oct/2024 20:30:16] "[33mGET /consultations/consultations HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:44,410 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\app.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:30:44,565 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:38:32,178 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:38:32,178 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:38:32,180 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:38:33,105 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:38:33,110 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:38:34,689 INFO: 127.0.0.1 - - [02/Oct/2024 20:38:34] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:38:34,736 INFO: 127.0.0.1 - - [02/Oct/2024 20:38:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:38:34,747 INFO: 127.0.0.1 - - [02/Oct/2024 20:38:34] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:10,152 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:10] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:10,187 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:10] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:10,187 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:10] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:11,814 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:11] "GET /history HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:11,839 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:11,841 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:13,489 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:13] "GET /faq HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:13,505 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:13,505 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:13] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:15,120 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:15] "GET /settings HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:15,135 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:15] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:39:15,136 INFO: 127.0.0.1 - - [02/Oct/2024 20:39:15] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:31,327 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\consultations\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:31,478 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:32,420 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:32,423 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:53,872 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:53,873 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:53,874 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:54,765 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:54,768 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:58,058 INFO: 127.0.0.1 - - [02/Oct/2024 20:47:58] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:58,117 INFO: 127.0.0.1 - - [02/Oct/2024 20:47:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 20:47:58,124 INFO: 127.0.0.1 - - [02/Oct/2024 20:47:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:27,134 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:27,135 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:27,136 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:28,061 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:28,065 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:29,766 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:29] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:29,823 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:29] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:29,823 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:29] "GET /static/style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:35,495 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:35] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:35,520 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:35,521 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:36,647 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:36] "GET /history HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:36,665 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:36] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:36,665 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:36] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:38,113 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:38] "GET /faq HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:38,128 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:38,129 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:38] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:39,457 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:39] "GET /settings HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:39,477 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:39] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:39,483 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:39] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:42,210 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:42] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:42,234 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:42] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-02 21:34:42,235 INFO: 127.0.0.1 - - [02/Oct/2024 21:34:42] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:10:56,723 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:10:56,723 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:10:56,724 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:10:57,672 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:10:57,675 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:11:48,445 INFO: 127.0.0.1 - - [05/Oct/2024 22:11:48] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:11:48,467 INFO: 127.0.0.1 - - [05/Oct/2024 22:11:48] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:11:48,552 INFO: 127.0.0.1 - - [05/Oct/2024 22:11:48] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:11:48,553 INFO: 127.0.0.1 - - [05/Oct/2024 22:11:48] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:11:49,065 INFO: 127.0.0.1 - - [05/Oct/2024 22:11:49] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:11,262 INFO: Пользователь admin успешно вошел в систему. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:21]
+2024-10-05 22:12:11,263 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:11] "[32mPOST /login HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:11,285 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:11] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:11,311 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:11] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:11,312 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:11] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:20,464 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:20] "GET /history HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:20,484 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:20,489 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:22,361 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:22] "GET /faq HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:22,377 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:22,377 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:22] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:24,630 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:24] "GET /settings HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:24,655 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:24,655 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:27,156 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:27] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:27,180 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:27,180 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:29,266 INFO: Пользователь вышел из системы. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:34]
+2024-10-05 22:12:29,267 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:29] "[32mGET /logout HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:29,273 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:29] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:29,288 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:29] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:29,288 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:51,616 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:51] "[32mGET /dashboard HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:51,623 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:51] "GET /login?next=/dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:51,648 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:51] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:12:51,648 INFO: 127.0.0.1 - - [05/Oct/2024 22:12:51] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:14:00,242 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\models.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:14:00,383 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:14:01,663 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:14:01,668 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:13,577 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:13,577 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:13,578 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:14,645 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:14,647 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:16,727 INFO: 127.0.0.1 - - [05/Oct/2024 22:24:16] "GET /login?next=/dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:16,784 INFO: 127.0.0.1 - - [05/Oct/2024 22:24:16] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:16,788 INFO: 127.0.0.1 - - [05/Oct/2024 22:24:16] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:29,078 INFO: 127.0.0.1 - - [05/Oct/2024 22:24:29] "[35m[1mPOST /login HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:29,110 INFO: 127.0.0.1 - - [05/Oct/2024 22:24:29] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:29,111 INFO: 127.0.0.1 - - [05/Oct/2024 22:24:29] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:29,142 INFO: 127.0.0.1 - - [05/Oct/2024 22:24:29] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=4FQmq3x1ZWcFbuzq0F6v HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:24:29,293 INFO: 127.0.0.1 - - [05/Oct/2024 22:24:29] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:24,169 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:24,169 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:24,170 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:25,283 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:25,286 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:41,199 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:41] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:41,226 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:41] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:41,265 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:41] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:41,286 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:41] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:56,423 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:56] "[35m[1mPOST /login HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:56,439 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:56] "[36mGET /login?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:56,439 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:56] "[36mGET /login?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:56,449 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:56] "GET /login?__debugger__=yes&cmd=resource&f=console.png&s=JG9g1xBpHOZfn0HZTt0R HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:26:56,613 INFO: 127.0.0.1 - - [05/Oct/2024 22:26:56] "[36mGET /login?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:33:20,277 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:33:20,278 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:33:20,279 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:33:21,254 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:33:21,257 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:34:23,872 INFO: 127.0.0.1 - - [05/Oct/2024 22:34:23] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:34:23,903 INFO: 127.0.0.1 - - [05/Oct/2024 22:34:23] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:34:23,939 INFO: 127.0.0.1 - - [05/Oct/2024 22:34:23] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:34:23,958 INFO: 127.0.0.1 - - [05/Oct/2024 22:34:23] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:34:38,945 WARNING: Неудачная попытка входа для пользователя admin. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:25]
+2024-10-05 22:34:38,946 INFO: 127.0.0.1 - - [05/Oct/2024 22:34:38] "[32mPOST /login HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:34:38,951 INFO: 127.0.0.1 - - [05/Oct/2024 22:34:38] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:34:38,970 INFO: 127.0.0.1 - - [05/Oct/2024 22:34:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:34:38,971 INFO: 127.0.0.1 - - [05/Oct/2024 22:34:38] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:35:07,110 WARNING: Неудачная попытка входа для пользователя admin. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:25]
+2024-10-05 22:35:07,111 INFO: 127.0.0.1 - - [05/Oct/2024 22:35:07] "[32mPOST /login HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:35:07,117 INFO: 127.0.0.1 - - [05/Oct/2024 22:35:07] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:35:07,138 INFO: 127.0.0.1 - - [05/Oct/2024 22:35:07] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:35:07,138 INFO: 127.0.0.1 - - [05/Oct/2024 22:35:07] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:35:22,947 WARNING: Неудачная попытка входа для пользователя admin. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:25]
+2024-10-05 22:35:22,948 INFO: 127.0.0.1 - - [05/Oct/2024 22:35:22] "[32mPOST /login HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:35:22,953 INFO: 127.0.0.1 - - [05/Oct/2024 22:35:22] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:35:22,974 INFO: 127.0.0.1 - - [05/Oct/2024 22:35:22] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:35:22,974 INFO: 127.0.0.1 - - [05/Oct/2024 22:35:22] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:37:43,125 WARNING: Неудачная попытка входа для пользователя admin. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:25]
+2024-10-05 22:37:43,125 INFO: 127.0.0.1 - - [05/Oct/2024 22:37:43] "[32mPOST /login HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:37:43,130 INFO: 127.0.0.1 - - [05/Oct/2024 22:37:43] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:37:43,151 INFO: 127.0.0.1 - - [05/Oct/2024 22:37:43] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 22:37:43,151 INFO: 127.0.0.1 - - [05/Oct/2024 22:37:43] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:05:10,051 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:05:10,051 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:05:10,052 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:05:11,025 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:05:11,027 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:05:24,918 INFO: 127.0.0.1 - - [05/Oct/2024 23:05:24] "GET /register HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:05:24,989 INFO: 127.0.0.1 - - [05/Oct/2024 23:05:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:05:24,997 INFO: 127.0.0.1 - - [05/Oct/2024 23:05:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:08,937 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:08] "[32mPOST /register HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:08,950 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:08] "GET /login HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:08,986 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:08,986 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:20,867 INFO: Пользователь Евгения успешно вошел в систему. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:21]
+2024-10-05 23:06:20,868 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:20] "[32mPOST /login HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:20,880 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:20] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:20,903 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:20] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:20,903 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:20] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:25,694 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:25] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:25,709 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:25,710 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:31,913 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:31] "GET /faq HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:31,931 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:31] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:31,932 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:31] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:34,023 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:34] "GET /history HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:34,046 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:34] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:34,046 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:34] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:35,569 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:35] "GET /settings HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:35,587 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:35] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:35,587 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:35] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:38,954 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:38] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:38,970 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:38] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:38,970 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:38] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:42,397 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:42] "[35m[1mGET /consultations/manage_credentials HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:42,422 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:42] "GET /consultations/manage_credentials?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:42,422 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:42] "GET /consultations/manage_credentials?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:42,449 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:42] "GET /consultations/manage_credentials?__debugger__=yes&cmd=resource&f=console.png&s=ReobhVeBwOM6ZyBkOe58 HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:06:42,614 INFO: 127.0.0.1 - - [05/Oct/2024 23:06:42] "GET /consultations/manage_credentials?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:08:47,085 INFO: 127.0.0.1 - - [05/Oct/2024 23:08:47] "[35m[1mGET /consultations/manage_credentials HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:08:47,118 INFO: 127.0.0.1 - - [05/Oct/2024 23:08:47] "[36mGET /consultations/manage_credentials?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:08:47,119 INFO: 127.0.0.1 - - [05/Oct/2024 23:08:47] "[36mGET /consultations/manage_credentials?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:08:47,132 INFO: 127.0.0.1 - - [05/Oct/2024 23:08:47] "[36mGET /consultations/manage_credentials?__debugger__=yes&cmd=resource&f=console.png&s=ReobhVeBwOM6ZyBkOe58 HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:15:46,398 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\consultations\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:15:46,569 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:15:47,616 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:15:47,619 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:16:42,758 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:16:42,758 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:16:42,759 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:16:43,712 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:16:43,716 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:18:01,589 INFO: 127.0.0.1 - - [05/Oct/2024 23:18:01] "GET /consultations/manage_credentials HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:18:01,647 INFO: 127.0.0.1 - - [05/Oct/2024 23:18:01] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:18:01,650 INFO: 127.0.0.1 - - [05/Oct/2024 23:18:01] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:14,784 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\app.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:14,929 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:15,939 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:15,942 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:24,331 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:24] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:24,402 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:24] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:24,405 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:24] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:25,730 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:25] "GET /history HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:25,748 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:25] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:25,750 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:25] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:26,887 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:26] "GET /faq HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:26,904 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:26] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:26,905 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:26] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:27,545 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:27] "GET /settings HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:27,569 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:27] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:27,569 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:27] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:28,529 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:28] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:28,549 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:28] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:28,549 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:28] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:29,242 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:29] "GET /consultations/manage_credentials HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:29,265 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:29] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:20:29,265 INFO: 127.0.0.1 - - [05/Oct/2024 23:20:29] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:38:11,934 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\consultations\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:38:12,089 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:38:13,092 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:38:13,095 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:48,035 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:48,035 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:48,036 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:49,007 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:49,010 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:53,379 INFO: 127.0.0.1 - - [05/Oct/2024 23:40:53] "[35m[1mGET /consultations/consultations HTTP/1.1[0m" 500 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:53,441 INFO: 127.0.0.1 - - [05/Oct/2024 23:40:53] "GET /consultations/consultations?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:53,442 INFO: 127.0.0.1 - - [05/Oct/2024 23:40:53] "GET /consultations/consultations?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:53,449 INFO: 127.0.0.1 - - [05/Oct/2024 23:40:53] "GET /consultations/consultations?__debugger__=yes&cmd=resource&f=console.png&s=AgRPNAUfRQsNJkWXjDqK HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:40:53,790 INFO: 127.0.0.1 - - [05/Oct/2024 23:40:53] "GET /consultations/consultations?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:45:22,177 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\forms.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:45:22,349 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:45:23,366 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:45:23,369 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:47:59,617 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\forms.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:47:59,761 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:00,738 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:00,741 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:13,395 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:13,395 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:13,396 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:14,366 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:14,369 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:17,749 INFO: 127.0.0.1 - - [05/Oct/2024 23:48:17] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:17,801 INFO: 127.0.0.1 - - [05/Oct/2024 23:48:17] "GET /static/style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:17,810 INFO: 127.0.0.1 - - [05/Oct/2024 23:48:17] "GET /static/script.js HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:58,659 INFO: 127.0.0.1 - - [05/Oct/2024 23:48:58] "GET /consultations/manage_credentials HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:58,692 INFO: 127.0.0.1 - - [05/Oct/2024 23:48:58] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:48:58,693 INFO: 127.0.0.1 - - [05/Oct/2024 23:48:58] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:49:03,446 INFO: 127.0.0.1 - - [05/Oct/2024 23:49:03] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:49:03,469 INFO: 127.0.0.1 - - [05/Oct/2024 23:49:03] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-05 23:49:03,470 INFO: 127.0.0.1 - - [05/Oct/2024 23:49:03] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:58:39,525 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:58:39,525 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:58:39,526 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:58:41,141 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:58:41,144 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:59:49,513 INFO: 127.0.0.1 - - [06/Oct/2024 06:59:49] "[32mGET /consultations/consultations HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:59:49,539 INFO: 127.0.0.1 - - [06/Oct/2024 06:59:49] "GET /login?next=/consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:59:49,622 INFO: 127.0.0.1 - - [06/Oct/2024 06:59:49] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:59:49,645 INFO: 127.0.0.1 - - [06/Oct/2024 06:59:49] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 06:59:50,392 INFO: 127.0.0.1 - - [06/Oct/2024 06:59:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:00:08,222 INFO: Пользователь Евгения успешно вошел в систему. [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_glavbukh_interface\blueprints\auth\routes.py:21]
+2024-10-06 07:00:08,225 INFO: 127.0.0.1 - - [06/Oct/2024 07:00:08] "[32mPOST /login HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:00:08,238 INFO: 127.0.0.1 - - [06/Oct/2024 07:00:08] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:00:08,263 INFO: 127.0.0.1 - - [06/Oct/2024 07:00:08] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:00:08,263 INFO: 127.0.0.1 - - [06/Oct/2024 07:00:08] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:00:13,175 INFO: 127.0.0.1 - - [06/Oct/2024 07:00:13] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:00:13,192 INFO: 127.0.0.1 - - [06/Oct/2024 07:00:13] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:00:13,193 INFO: 127.0.0.1 - - [06/Oct/2024 07:00:13] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:20:13,257 INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.2.191:8080 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:20:13,257 INFO: [33mPress CTRL+C to quit[0m [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:20:13,258 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:20:14,883 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:20:14,886 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:17,908 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:17] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:17,958 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:17] "GET /static/style.css HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:17,968 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:17] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:33,136 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:33] "[32mGET / HTTP/1.1[0m" 302 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:33,147 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:33] "GET /dashboard HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:33,168 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:33,169 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:33] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:37,385 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:37] "GET /consultations/consultations HTTP/1.1" 200 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:37,410 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:37] "[36mGET /static/style.css HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:24:37,410 INFO: 127.0.0.1 - - [06/Oct/2024 07:24:37] "[36mGET /static/script.js HTTP/1.1[0m" 304 - [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:37:31,083 INFO:  * Detected change in 'D:\\automation\\MetaGPT\\workspace\\vip_glavbukh_interface\\vip_glavbukh_interface\\blueprints\\consultations\\routes.py', reloading [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:37:31,365 INFO:  * Restarting with stat [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:37:33,005 WARNING:  * Debugger is active! [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]
+2024-10-06 07:37:33,009 INFO:  * Debugger PIN: 682-658-245 [in D:\automation\MetaGPT\workspace\vip_glavbukh_interface\vip_env\Lib\site-packages\werkzeug\_internal.py:97]

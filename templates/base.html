@@ -1,0 +1,135 @@
+<!-- templates/base.html -->
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Мое Приложение{% endblock %}</title>
+    <!-- Подключение Bootswatch CSS (Spacelab Theme) -->
+    <link href="https://cdn.jsdelivr.net/npm/bootswatch@5.3.0/dist/spacelab/bootstrap.min.css" rel="stylesheet">
+    <!-- Подключение Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- Подключение собственного CSS -->
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+    <style>
+        /* Стили для боковой панели */
+        body {
+            display: flex;
+        }
+        #sidebar {
+            min-width: 250px;
+            max-width: 250px;
+            background: #343a40;
+            color: #fff;
+            min-height: 100vh;
+        }
+        #sidebar .nav-link {
+            color: #fff;
+        }
+        #sidebar .nav-link:hover {
+            background: #495057;
+        }
+        #content {
+            width: 100%;
+            padding: 20px;
+        }
+    </style>
+    <meta name="csrf-token" content="{{ csrf_token() }}">
+</head>
+<body>
+    <!-- Боковая навигационная панель -->
+    <nav id="sidebar" class="d-flex flex-column p-3">
+        <a href="{{ url_for('main.dashboard') }}" class="d-flex align-items-center mb-3 mb-md-0 me-md-auto text-white text-decoration-none">
+            <span class="fs-4">Мое Приложение</span>
+        </a>
+        <hr>
+        <ul class="nav nav-pills flex-column mb-auto">
+            {% if current_user.is_authenticated %}
+                <li class="nav-item">
+                    <a href="{{ url_for('main.dashboard') }}" class="nav-link text-white">
+                        Панель управления
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('main.history') }}" class="nav-link text-white">
+                        История
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('main.faq_route') }}" class="nav-link text-white">
+                        FAQ
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('main.settings') }}" class="nav-link text-white">
+                        Настройки
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('consultations.index') }}" class="nav-link text-white">
+                        <i class="fas fa-comments me-2"></i>
+                        Консультации
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('consulting_platforms.consulting_platforms') }}" class="nav-link text-white">
+                        Консультационные платформы
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('consulting_platforms.manage_credentials') }}" class="nav-link text-white">
+                        Учетные данные
+                    </a>
+                </li>
+                <li>
+                    <a href="{{ url_for('auth.logout') }}" class="nav-link text-white">
+                        Выйти
+                    </a>
+                </li>
+            {% else %}
+                <li>
+                    <a href="{{ url_for('auth.login') }}" class="nav-link text-white">
+                        Вход
+                    </a>
+                </li>
+            {% endif %}
+        </ul>
+        <hr>
+        <!-- Дополнительные ссылки или информация -->
+        <div class="dropdown">
+            <a href="#" class="d-flex align-items-center text-white text-decoration-none dropdown-toggle" id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
+                Дополнительно
+            </a>
+            <ul class="dropdown-menu dropdown-menu-dark text-small shadow" aria-labelledby="dropdownUser1">
+                <li><a class="dropdown-item" href="#">Настройка профиля</a></li>
+                <li><a class="dropdown-item" href="#">Другие ссылки</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Основной контент -->
+    <div id="content">
+        {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert alert-{{ category }} alert-dismissible fade show" role="alert">
+                        {{ message }}
+                        <button type="button" class="btn-close" data-bs-dismiss="alert" aria-label="Закрыть"></button>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+        {% block content %}{% endblock %}
+    </div>
+
+    <!-- Скрытое поле CSRF токена (можно удалить из base.html и оставить только в формах) -->
+    <!-- <input type="hidden" name="csrf_token" value="{{ csrf_token }}"> -->
+
+    <!-- Подключение Bootstrap JS и зависимостей -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Подключение Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Подключение нашего скрипта -->
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

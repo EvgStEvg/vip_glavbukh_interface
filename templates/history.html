@@ -1,0 +1,90 @@
+<!-- templates/history.html -->
+{% extends "base.html" %}
+
+{% block title %}История запросов{% endblock %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2>История запросов</h2>
+    
+    <div class="history-container">
+        {% if history %}
+            {% for item in history %}
+                <div class="history-item card mb-3">
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <h6 class="card-subtitle mb-2 text-muted">{{ item.timestamp.strftime('%d.%m.%Y %H:%M') }}</h6>
+                            <button class="btn btn-danger btn-sm delete-btn" data-history-id="{{ item.id }}">
+                                <i class="fas fa-trash"></i>
+                            </button>
+                        </div>
+                        <p class="card-text mt-2">{{ item.message }}</p>
+                    </div>
+                </div>
+            {% endfor %}
+        {% else %}
+            <p class="text-center text-muted">История пуста</p>
+        {% endif %}
+    </div>
+</div>
+
+<style>
+.history-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.history-item {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
+.delete-btn {
+    padding: 0.25rem 0.5rem;
+}
+</style>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('.delete-btn').forEach(button => {
+        button.addEventListener('click', function() {
+            const historyId = this.dataset.historyId;
+            const historyItem = this.closest('.history-item');
+            
+            if (confirm('Удалить этот запрос из истории?')) {
+                const csrfToken = document.querySelector('meta[name="csrf-token"]').content;
+                
+                fetch(`/history/delete/${historyId}`, {
+                    method: 'POST',
+                    headers: {
+                        'Content-Type': 'application/json',
+                        'X-CSRFToken': csrfToken
+                    }
+                })
+                .then(response => response.json())
+                .then(data => {
+                    if (data.success) {
+                        historyItem.style.transition = 'opacity 0.3s ease';
+                        historyItem.style.opacity = '0';
+                        setTimeout(() => {
+                            historyItem.remove();
+                            if (document.querySelectorAll('.history-item').length === 0) {
+                                document.querySelector('.history-container').innerHTML = 
+                                    '<p class="text-center text-muted">История пуста</p>';
+                            }
+                        }, 300);
+                    } else {
+                        alert('Ошибка при удалении');
+                    }
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                    alert('Произошла ошибка при удалении');
+                });
+            }
+        });
+    });
+});
+</script>
+{% endblock %}

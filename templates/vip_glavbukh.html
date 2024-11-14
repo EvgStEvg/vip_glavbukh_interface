@@ -1,0 +1,17 @@
+<!-- templates/vip_glavbukh.html -->
+{% extends 'base.html' %}
+
+{% block title %}VIP Glavbukh{% endblock %}
+
+{% block content %}
+<h2>VIP Glavbukh: Вход в систему</h2>
+<form method="post" action="{{ url_for('vip_glavbukh') }}">
+    <label for="vip_username">Логин:</label>
+    <input type="text" id="vip_username" name="vip_username" required>
+    <br>
+    <label for="vip_password">Пароль:</label>
+    <input type="password" id="vip_password" name="vip_password" required>
+    <br>
+    <button type="submit">Войти</button>
+</form>
+{% endblock %}

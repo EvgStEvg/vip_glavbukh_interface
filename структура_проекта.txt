@@ -1,0 +1,118 @@
+Ρςπσκςσπΰ οΰοξκ ςξμΰ Data
+Ρεπθινϋι νξμεπ ςξμΰ: 0898-6205
+D:\MYPROJECTS\VIP_GLAVBUKH_INTERFACE
+¦   .dependencies.json
+¦   .env
+¦   .gitignore
+¦   app.log
+¦   app.py
+¦   auth.py
+¦   create_user.py
+¦   docs
+¦   faq.md
+¦   faq.py
+¦   forms.py
+¦   login_vip_glavbukh.py
+¦   models.py
+¦   requirements.txt
+¦   security.py
+¦   ρςπσκςσπΰ_οπξεκςΰ.txt
+¦   
++---.git
++---blueprints
+¦   +---auth
+¦   ¦   ¦   routes.py
+¦   ¦   ¦   __init__.py
+¦   ¦   ¦   
+¦   ¦   L---__pycache__
+¦   ¦           routes.cpython-312.pyc
+¦   ¦           __init__.cpython-312.pyc
+¦   ¦           
+¦   +---consultations
+¦   ¦   ¦   routes.py
+¦   ¦   ¦   __init__.py
+¦   ¦   ¦   
+¦   ¦   L---__pycache__
+¦   ¦           routes.cpython-312.pyc
+¦   ¦           __init__.cpython-312.pyc
+¦   ¦           
+¦   +---consulting_platforms
+¦   ¦   ¦   routes.py
+¦   ¦   ¦   __init__.py
+¦   ¦   ¦   
+¦   ¦   L---__pycache__
+¦   ¦           routes.cpython-312.pyc
+¦   ¦           __init__.cpython-312.pyc
+¦   ¦           
+¦   +---dashboard
+¦   ¦       routes.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   +---history
+¦   ¦       routes.py
+¦   ¦       __init__.py
+¦   ¦       
+¦   L---main
+¦       ¦   routes.py
+¦       ¦   __init__.py
+¦       ¦   
+¦       L---__pycache__
+¦               routes.cpython-312.pyc
+¦               __init__.cpython-312.pyc
+¦               
++---instance
+¦       users.db
+¦       
++---logs
+¦       app.log
+¦       app.log.1
+¦       
++---migrations
+¦   ¦   alembic.ini
+¦   ¦   env.py
+¦   ¦   README
+¦   ¦   script.py.mako
+¦   ¦   
+¦   +---versions
+¦   ¦   ¦   7370b9a98c6c_ξανξβλενθε_μξδελει.py
+¦   ¦   ¦   877d24da2c8c_initial_migration_with_user_history_and_.py
+¦   ¦   ¦   
+¦   ¦   L---__pycache__
+¦   ¦           7370b9a98c6c_ξανξβλενθε_μξδελει.cpython-312.pyc
+¦   ¦           877d24da2c8c_initial_migration_with_user_history_and_.cpython-312.pyc
+¦   ¦           
+¦   L---__pycache__
+¦           env.cpython-312.pyc
+¦           
++---new_vip_env
++---static
+¦   ¦   favicon.ico
+¦   ¦   script.js
+¦   ¦   style.css
+¦   ¦   
+¦   L---images
+¦           logo.png
+¦           
++---templates
+¦       base.html
+¦       consultant_plus.html
+¦       consultations.html
+¦       consulting_platforms.html
+¦       dashboard.html
+¦       faq.html
+¦       history.html
+¦       index.html
+¦       login.html
+¦       manage_credentials.html
+¦       register.html
+¦       settings.html
+¦       vip_glavbukh.html
+¦       
+L---__pycache__
+        app.cpython-312.pyc
+        auth.cpython-312.pyc
+        faq.cpython-312.pyc
+        forms.cpython-312.pyc
+        models.cpython-312.pyc
+        security.cpython-312.pyc
+        

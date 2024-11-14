@@ -1,0 +1,216 @@
+2024-11-08 08:18:52,833 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:54]
+2024-11-08 08:19:24,598 ERROR: Exception on /consultations/ [POST] [in D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py:838]
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 77, in get_openai_response
+    response = openai.ChatCompletion.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\openai\lib\_old_api.py", line 39, in __call__
+    raise APIRemovedInV1(symbol=self._symbol)
+openai.lib._old_api.APIRemovedInV1: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask_login\utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 30, in consultations
+    assistant_response = get_openai_response(user_message, selected_model)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 85, in get_openai_response
+    except openai.error.OpenAIError as e:
+           ^^^^^^^^^^^^
+AttributeError: module 'openai' has no attribute 'error'
+2024-11-08 15:33:27,985 ERROR: Exception on /consultations/ [POST] [in D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py:838]
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 77, in get_openai_response
+    response = openai.ChatCompletion.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\openai\lib\_old_api.py", line 39, in __call__
+    raise APIRemovedInV1(symbol=self._symbol)
+openai.lib._old_api.APIRemovedInV1: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask_login\utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 30, in consultations
+    assistant_response = get_openai_response(user_message, selected_model)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 85, in get_openai_response
+    except openai.error.OpenAIError as e:
+           ^^^^^^^^^^^^
+AttributeError: module 'openai' has no attribute 'error'
+2024-11-08 15:42:03,241 ERROR: Exception on /consultations/ [POST] [in D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py:838]
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 77, in get_openai_response
+    response = openai.ChatCompletion.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\openai\lib\_old_api.py", line 39, in __call__
+    raise APIRemovedInV1(symbol=self._symbol)
+openai.lib._old_api.APIRemovedInV1: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask_login\utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 30, in consultations
+    assistant_response = get_openai_response(user_message, selected_model)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 85, in get_openai_response
+    print(response.choices[0].message.content)
+           ^^^^^^^^^^^^
+AttributeError: module 'openai' has no attribute 'error'
+2024-11-08 16:02:56,187 ERROR: Exception on /consultations/ [POST] [in D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py:838]
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 77, in get_openai_response
+    response = openai.ChatCompletion.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\openai\lib\_old_api.py", line 39, in __call__
+    raise APIRemovedInV1(symbol=self._symbol)
+openai.lib._old_api.APIRemovedInV1: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask_login\utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 30, in consultations
+    assistant_response = get_openai_response(user_message, selected_model)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 85, in get_openai_response
+    print(response.choices[0].message.content)
+           ^^^^^^^^^^^^
+AttributeError: module 'openai' has no attribute 'error'
+2024-11-08 16:05:52,355 ERROR: Exception on /consultations/ [POST] [in D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py:838]
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 77, in get_openai_response
+    response = openai.ChatCompletion.create(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\openai\lib\_old_api.py", line 39, in __call__
+    raise APIRemovedInV1(symbol=self._symbol)
+openai.lib._old_api.APIRemovedInV1: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 1473, in wsgi_app
+    response = self.full_dispatch_request()
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 882, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 880, in full_dispatch_request
+    rv = self.dispatch_request()
+         ^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask\app.py", line 865, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)  # type: ignore[no-any-return]
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\new_vip_env\Lib\site-packages\flask_login\utils.py", line 290, in decorated_view
+    return current_app.ensure_sync(func)(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 30, in consultations
+    assistant_response = get_openai_response(user_message, selected_model)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py", line 85, in get_openai_response
+    print(response.choices[0].message.content)
+           ^^^^^^^^^^^^
+AttributeError: module 'openai' has no attribute 'error'

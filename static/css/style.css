@@ -1,0 +1,55 @@
+/* Общие стили */
+body {
+    display: flex;
+}
+
+/* Стили для боковой панели */
+#sidebar {
+    min-width: 250px;
+    max-width: 250px;
+    background: #343a40;
+    color: #fff;
+    min-height: 100vh;
+}
+
+#sidebar .nav-link {
+    color: #fff;
+}
+
+#sidebar .nav-link:hover {
+    background: #495057;
+}
+
+#content {
+    width: 100%;
+    padding: 20px;
+}
+
+/* Стили для страницы консультаций */
+.consultation-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.dialog-message {
+    border-left: 4px solid #007bff;
+}
+
+.dialog-message[data-role="assistant"] {
+    border-left-color: #28a745;
+}
+
+/* Стили для страницы истории */
+.history-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.history-item {
+    background-color: #f8f9fa;
+    border: 1px solid #dee2e6;
+}
+
+.delete-btn {
+    padding: 0.25rem 0.5rem;
+} 

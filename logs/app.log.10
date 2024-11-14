@@ -1,0 +1,119 @@
+2024-10-30 10:16:56,536 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 10:16:56,542 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:16:56,542 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:16:59,184 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 10:16:59,190 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:16:59,190 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:27:02,076 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 10:27:02,081 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:27:02,081 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:27:04,757 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 10:27:04,762 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:27:04,762 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:30:50,771 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 10:30:50,776 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:30:50,776 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:58:49,824 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 10:58:49,829 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 10:58:49,829 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 11:18:00,167 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 11:18:00,172 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 11:18:00,172 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 11:18:01,872 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 11:18:01,877 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 11:18:01,877 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 11:18:15,427 ERROR: OpenAI API Error: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}} [in D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py:99]
+2024-10-30 11:18:15,427 ERROR: OpenAI API Error: Error code: 403 - {'error': {'code': 'unsupported_country_region_territory', 'message': 'Country, region, or territory not supported', 'param': None, 'type': 'request_forbidden'}} [in D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py:99]
+2024-10-30 12:38:13,617 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 12:38:13,622 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 12:38:13,622 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 12:54:21,840 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 12:54:21,845 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 12:54:21,845 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 12:55:24,907 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 12:55:24,914 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 12:55:24,914 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 12:55:27,804 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 12:55:27,809 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 12:55:27,809 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 13:22:11,027 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 13:22:11,034 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 13:22:11,034 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:17:39,013 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 15:17:39,019 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:17:39,019 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:17:41,638 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 15:17:41,643 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:17:41,643 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:17:59,105 ERROR: OpenAI API Error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+ [in D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py:101]
+2024-10-30 15:17:59,105 ERROR: OpenAI API Error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+ [in D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py:101]
+2024-10-30 15:18:52,859 ERROR: OpenAI API Error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+ [in D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py:101]
+2024-10-30 15:18:52,859 ERROR: OpenAI API Error: 
+
+You tried to access openai.ChatCompletion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+ [in D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py:101]
+2024-10-30 15:21:31,014 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 15:21:31,019 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:21:31,019 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:21:45,605 ERROR: OpenAI API Error: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+ [in D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py:101]
+2024-10-30 15:21:45,605 ERROR: OpenAI API Error: 
+
+You tried to access openai.Completion, but this is no longer supported in openai>=1.0.0 - see the README at https://github.com/openai/openai-python for the API.
+
+You can run `openai migrate` to automatically upgrade your codebase to use the 1.0.0 interface. 
+
+Alternatively, you can pin your installation to the old version, e.g. `pip install openai==0.28`
+
+A detailed migration guide is available here: https://github.com/openai/openai-python/discussions/742
+ [in D:\MyProjects\vip_glavbukh_interface\blueprints\consultations\routes.py:101]
+2024-10-30 15:22:29,196 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 15:22:29,201 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:22:29,201 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:22:31,817 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 15:22:31,823 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:22:31,823 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:38:02,215 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:57]
+2024-10-30 15:38:02,220 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]
+2024-10-30 15:38:02,220 INFO: Application startup [in D:\MyProjects\vip_glavbukh_interface\app.py:102]

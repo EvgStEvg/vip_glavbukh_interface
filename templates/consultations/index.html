@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="container mt-4">
+    <h2>Консультации</h2>
+    
+    <div class="consultation-container">
+        <!-- Отображение текущего диалога -->
+        <div id="current-dialog" class="mb-4">
+            {% if current_session %}
+                {% for message in current_session %}
+                    <div class="dialog-message card mb-3 {% if message.role == 'user' %}bg-light{% endif %}">
+                        <div class="card-body">
+                            <div class="d-flex justify-content-between">
+                                <span class="text-muted">{{ message.role|title }}</span>
+                                <small class="text-muted">{{ message.timestamp.strftime('%H:%M') }}</small>
+                            </div>
+                            <p class="card-text mt-2">{{ message.message }}</p>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% endif %}
+        </div>
+
+        <!-- Форма для отправки вопроса -->
+        <form id="consultation-form" method="POST">
+            {{ form.csrf_token }}
+            <div class="form-group">
+                <label for="message">
+                    {% if current_session %}
+                        Уточняющий вопрос:
+                    {% else %}
+                        Ваш вопрос:
+                    {% endif %}
+                </label>
+                <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
+            </div>
+            <div class="d-flex justify-content-between mt-3">
+                <button type="submit" class="btn btn-primary">Отправить</button>
+                {% if current_session %}
+                    <button type="button" class="btn btn-secondary" id="end-session-btn">Завершить консультацию</button>
+                {% endif %}
+            </div>
+        </form>
+    </div>
+</div>
+
+<style>
+.consultation-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
+.dialog-message {
+    border-left: 4px solid #007bff;
+}
+.dialog-message[data-role="assistant"] {
+    border-left-color: #28a745;
+}
+</style>
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+{% endblock %} 
